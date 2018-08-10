@@ -1,6 +1,7 @@
 <?php
-
 namespace Restserver\Libraries;
+
+require APPPATH . 'libraries/Format.php';
 use CI_Controller;
 use Exception;
 use stdClass;
