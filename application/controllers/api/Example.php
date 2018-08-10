@@ -1,8 +1,6 @@
 <?php 
-use Restserver\Libraries\REST_Controller;
+//use Restserver\Libraries\REST_Controller;
 defined('BASEPATH') or exit("No direct script access allowed");
-
-require APPPATH . '/libraries/REST_Controller.php';
 
 class Example extends REST_Controller {
 
